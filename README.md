@@ -17,7 +17,7 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 ## Check Live Here 🚀
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo](https://dosomething-sagar.github.io/instagram-clone/)
 
 ## Installation
 
