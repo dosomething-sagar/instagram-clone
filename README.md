@@ -15,6 +15,10 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 - **Frontend:** HTML, CSS
 
+## Live Certificate Verification 🌐
+
+- [Verify Certificate](https://cert.devtown.in/verify/ZANLsu)
+
 ## Check Live Here 🚀
 
 - [Live Demo](https://dosomething-sagar.github.io/instagram-clone/)
