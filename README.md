@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for an Instagram clone project developed by Sagar Malviya during the Devtown course in collaboration with GDSC KIIT and Microsoft Learn Students Ambassador program. The project is focused on HTML and CSS
+This repository contains the code for an Instagram clone project developed by Sagar Malviya during the Devtown course in collaboration with GDSC KIIT and Microsoft Learn Students Ambassador program. The project is focused on HTML and CSS.
 
 ## Contributors
 
