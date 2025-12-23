@@ -6,7 +6,7 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 ## Contributors
 
-- **Sagar Malviya** - Lead Developer
+- **Sagar Malviya** - Developer
 - **Devtown** - Course Provider and Mentor
 - **GDSC KIIT** - Collaborative Support
 - **Microsoft Learn Students Ambassador** - Mentorship
