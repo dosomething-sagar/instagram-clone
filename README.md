@@ -19,7 +19,7 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 - [Verify Certificate](https://drive.google.com/file/d/1-LCnLFjsMetvsO49WcVR61FVTSGfDiXl/view)
 
-## Check Live Here 🚀 testing jenkins webhook and poll scm
+## Check Live Here 🚀 
 
 - [Live Demo](https://dosomething-sagar.github.io/instagram-clone/)
 
