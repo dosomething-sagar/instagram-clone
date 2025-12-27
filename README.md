@@ -23,7 +23,7 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 - [Live Demo](https://dosomething-sagar.github.io/instagram-clone/)
 
-## Installation
+## Installation 
 
 ```bash
 # Clone the repository
