@@ -15,7 +15,7 @@ This repository contains the code for an Instagram clone project developed by Sa
 
 - **Frontend:** HTML, CSS
 
-## Live Certificate Verification 🌐
+## Live Certificate Verification 🌐 
 
 - [Verify Certificate](https://drive.google.com/file/d/1-LCnLFjsMetvsO49WcVR61FVTSGfDiXl/view)
 
